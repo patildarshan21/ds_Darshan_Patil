@@ -64,6 +64,7 @@ Export figures → saved in outputs/
 Export processed CSVs → saved in csv_files/
 
 ### 📊 What’s Included in Analysis
+
 ✔️ Data Cleaning & Standardization
 
 Datetime conversion
@@ -122,5 +123,7 @@ Junior Data Scientist – Trader Behavior Insights
 ### 📞 Contact
 
 Name: Darshan Yograj Patil
+
 Email: patildarshan4321@gmail.com
+
 Role: Junior Data Scientist Applicant
