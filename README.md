@@ -1,14 +1,14 @@
-Trader Behavior Insights (Junior Data Scientist Assignment)
+## Trader Behavior Insights (Junior Data Scientist Assignment)
 📌 Project Title
 
 Trader Behavior Insights — Relationship Between Market Sentiment & Trader Performance
 
-👤 Candidate
+### 👤 Candidate
 
 Darshan Yograj Patil
 Junior Data Scientist Applicant
 
-📄 Project Overview
+### 📄 Project Overview
 
 This project analyzes the relationship between Bitcoin market sentiment (Fear & Greed Index) and trader behavior/performance using:
 
@@ -32,7 +32,7 @@ Risk-taking patterns during Fear vs Greed days
 
 Insights that can guide smarter trading strategies
 
-📂 Repository Structure
+### 📂 Repository Structure
 ├── notebook_1.ipynb          # Full EDA, sentiment merge, visualizations, statistics
 │
 ├── csv_files/
@@ -42,7 +42,7 @@ Insights that can guide smarter trading strategies
 ├── ds_report.pdf             # Final report summarizing insights
 └── README.md                 # (this file)
 
-📥 Dataset Sources
+### 📥 Dataset Sources
 
 1. Hyperliquid Historical Trader Data
 https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
@@ -50,7 +50,7 @@ https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=shari
 2. Bitcoin Fear & Greed Index
 https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
-🚀 How to Run the Project
+### 🚀 How to Run the Project
 Option 1 — Google Colab (Recommended)
 
 Open notebook_1.ipynb in Colab
@@ -63,7 +63,7 @@ Export figures → saved in outputs/
 
 Export processed CSVs → saved in csv_files/
 
-📊 What’s Included in Analysis
+### 📊 What’s Included in Analysis
 ✔️ Data Cleaning & Standardization
 
 Datetime conversion
@@ -102,7 +102,7 @@ Leverage vs Profit scatterplots
 
 Account-level performance metrics
 
-📌 Key Insights Summary
+### 📌 Key Insights Summary
 
 (Exact values updated after running notebooks)
 
@@ -119,7 +119,7 @@ Certain symbols show sentiment-sensitive volatility.
 Subject:
 Junior Data Scientist – Trader Behavior Insights
 
-📞 Contact
+### 📞 Contact
 
 Name: Darshan Yograj Patil
 Email: patildarshan4321@gmail.com
