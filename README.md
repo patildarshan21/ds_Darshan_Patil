@@ -32,16 +32,6 @@ Risk-taking patterns during Fear vs Greed days
 
 Insights that can guide smarter trading strategies
 
-### 📂 Repository Structure
-├── notebook_1.ipynb          # Full EDA, sentiment merge, visualizations, statistics
-│
-├── csv_files/
-│   ├── traders_processed.csv
-│   └── daily_aggregates.csv
-│
-├── ds_report.pdf             # Final report summarizing insights
-└── README.md                 # (this file)
-
 ### 📥 Dataset Sources
 
 1. Hyperliquid Historical Trader Data
